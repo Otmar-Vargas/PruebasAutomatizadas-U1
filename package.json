@@ -1,0 +1,23 @@
+{
+  "name": "consumo-apis-finales-u1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Equipo3.js",
+  "scripts": {
+    "start": "mocha test/*.test.js",
+    "dev": "mocha test/*.test.js",
+    "test": "mocha test/*.test.js"
+  },
+  "dependencies": {
+    "chai": "^5.2.0",
+    "express": "^5.1.0",
+    "mocha": "^11.1.0",
+    "supertest": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
